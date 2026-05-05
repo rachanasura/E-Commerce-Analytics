@@ -33,12 +33,12 @@ The dataset consists of multiple interconnected tables, including:
 **Data cleaning and preparation**
 
 Before analysis, the dataset was checked and prepared by:
-Verifying column names and data types
-Converting date fields into proper date format
-Checking for missing or null values
-Removing duplicate records (if any)
-Multiple datasets (orders, customers, products, payments, and reviews) were joined using relational keys to build a structured data model for in-depth analysis
-Creating calculated fields for KPIs and percentage-based insights
+- Verifying column names and data types
+- Converting date fields into proper date format
+- Checking for missing or null values
+- Removing duplicate records (if any)
+- Multiple datasets (orders, customers, products, payments, and reviews) were joined using relational keys to build a structured data model for in-depth analysis
+- Creating calculated fields for KPIs and percentage-based insights
 
 **Key Performance Indicators(KPIs)**
 
@@ -90,17 +90,12 @@ The analysis provides actionable insights that can help improve customer experie
 
 **Skills demonstrated**
 
-Data Analysis
-
-Data Visualization
-
-Dashboard Development
-
-Business Intelligence
-
-Insight Generation
-
-Power BI
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Insight Generation
+- Power BI
 
 Tableau
 
