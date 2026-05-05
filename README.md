@@ -96,9 +96,6 @@ The analysis provides actionable insights that can help improve customer experie
 - Business Intelligence
 - Insight Generation
 - Power BI
-
-Tableau
-
-Excel
-
-SQL
+- Tableau
+- Excel
+- SQL
